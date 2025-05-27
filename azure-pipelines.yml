@@ -6,7 +6,7 @@
 trigger: none
 # - main
 
-pool: ubuntu-latest
+pool: agent01
 
 steps:
 - script: echo Hello, world!
